@@ -1,0 +1,8 @@
+,Server,Server IP,Client ,Client IP,Port,Avg Bit/s,Octet 1,Octet 2,Octet 3,Octet 4,Port Only,Application Only,Known?
+0,google.com,8.8.8.8,10.0.0.1,10.0.0.1,udp/53 (dns),1000,8,8,8,8,udp/53 ,dns,True
+1,cloudflare.com,1.1.1.1,10.0.0.1,10.0.0.1,udp/53 (dns),1000,1,1,1,1,udp/53 ,dns,True
+2,youtube.com,216.239.32.10,10.0.0.2,10.0.0.2,tcp/443 (https),900,216,239,32,10,tcp/443 ,https,False
+3,twitter.com,205.251.192.179,10.0.0.2,10.0.0.2,tcp/443 (https),900,205,251,192,179,tcp/443 ,https,False
+4,twitch.tv,205.251.197.170,10.0.0.3,10.0.0.3,tcp/443 (https),800,205,251,197,170,tcp/443 ,https,False
+5,speedtest.net,205.251.196.47,10.0.0.3,10.0.0.3,tcp/443 (https),800,205,251,196,47,tcp/443 ,https,False
+6,acloudguru.com,205.251.197.156,10.0.0.5,10.0.0.5,tcp/443 (https),700,205,251,197,156,tcp/443 ,https,False

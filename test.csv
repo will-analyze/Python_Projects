@@ -1,0 +1,8 @@
+Server,Server IP,Client ,Client IP,Port,Avg Bit/s
+google.com,8.8.8.8,10.0.0.1,10.0.0.1,udp/53 (dns),1000
+cloudflare.com,1.1.1.1,10.0.0.1,10.0.0.1,udp/53 (dns),1000
+youtube.com,216.239.32.10,10.0.0.2,10.0.0.2,tcp/443 (https),900
+twitter.com,205.251.192.179,10.0.0.2,10.0.0.2,tcp/443 (https),900
+twitch.tv,205.251.197.170,10.0.0.3,10.0.0.3,tcp/443 (https),800
+speedtest.net,205.251.196.47,10.0.0.3,10.0.0.3,tcp/443 (https),800
+acloudguru.com,205.251.197.156,10.0.0.5,10.0.0.5,tcp/443 (https),700
